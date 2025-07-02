@@ -6,7 +6,7 @@ Understand what makes a password strong and test it using online password streng
 ---
 
 ## 🛠️ Tools Used
-- [Password Meter](https://www.passwordmeter.com/)
+- [Password Meter](https://www.passwordmonster.com/)
 - [Security.org Password Checker](https://www.security.org/how-secure-is-my-password/)
 
 ---
