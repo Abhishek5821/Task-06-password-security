@@ -6,6 +6,8 @@ Understand what makes a password strong and test it using online password streng
 ---
 
 ## 🛠️ Tools Used
+
+-  Password Strength cheaker (personal tool) Avialable in reposiratary
 - [Password Meter](https://www.passwordmonster.com/)
 - [Security.org Password Checker](https://www.security.org/how-secure-is-my-password/)
 
